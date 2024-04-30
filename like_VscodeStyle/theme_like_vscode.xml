@@ -168,17 +168,17 @@
 		/>
 	<DisplayColors>
 		<Item Name="DefaultText" Color="#dcdcdc" />
-		<Item Name="WindowBackground" Color="#1e1e1e" />
-		<Item Name="SelectionBar" Color="#1e1e1e" />
+		<Item Name="WindowBackground" Color="#282c34" />
+		<Item Name="SelectionBar" Color="#282c34" />
 		<Item Name="PrintedDefaultText" Color="#000000" />
-		<Item Name="PrintedWindowBackground" Color="#1e1e1e" />
+		<Item Name="PrintedWindowBackground" Color="#282c34" />
 		<Item Name="ChangeMarks" Color="#ffff40" />
 		<Item Name="SavedChangeMarks" Color="#6ad500" />
-		<Item Name="CurrentLineIndicator" Color="#1e1e1e" />
-		<Item Name="EndofFile" Color="#1e1e1e" />
-		<Item Name="ApplicationBackground" Color="#1e1e1e" />
+		<Item Name="CurrentLineIndicator" Color="#282c34" />
+		<Item Name="EndofFile" Color="#282c34" />
+		<Item Name="ApplicationBackground" Color="#282c34" />
 		<Item Name="FrameText" Color="#f0f0f0" />
-		<Item Name="FrameBackground" Color="#1e1e1e" />
+		<Item Name="FrameBackground" Color="#282c34" />
 	</DisplayColors>
 	<FilePreferences
 		ShareFiles="1"
@@ -8520,7 +8520,7 @@
 		<SymbolTypes All="1" />
 	</ProjectReport>
 	<SymbolPane
-		Width="386"
+		Width="337"
 		TextColor="#cccccc"
 		BackColor="#1e1e1e"
 		ShowChanges="1"
@@ -8839,7 +8839,7 @@
 		ShowOverview="0"
 		PercentScale="100"
 		ShowBaseStructure="1"
-		BackColor="#1e1e1e"
+		BackColor="#282c34"
 		>
 		<ListDisplay
 			TextColor="#cccccc"
@@ -8874,7 +8874,7 @@
 		ShowScrollBar="1"
 		ShowNestingLines="1"
 		PercentScale="100"
-		BackColor="#1e1e1e"
+		BackColor="#282c34"
 		ShowSymbolPane="1"
 		SymbolPaneWidth="288"
 		DiffCmdLine="&quot;%PROGRAM_DIR%\sidiff.exe&quot; -C -b -n"
